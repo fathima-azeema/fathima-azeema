@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full‑Stack Software Developer • BIT Undergraduate • WordPress Developer • Sri Lanka 🇱🇰
+  Full‑Stack Software Developer • BIT Undergraduate • Sri Lanka 🇱🇰
 </h3>
 
 <p align="center">
